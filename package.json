@@ -1,0 +1,17 @@
+{
+  "name": "blog_bakcend_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node users.js",
+    "dev": "nodemon users.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
